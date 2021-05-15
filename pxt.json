@@ -1,5 +1,5 @@
 {
-    "name": "Step counter",
+    "name": "compas",
     "description": "",
     "dependencies": {
         "core": "*",
